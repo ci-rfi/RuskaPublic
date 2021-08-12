@@ -1,2 +1,2 @@
 # Ruska Public
-Testing wiki page
+Testing [wiki page](wiki)

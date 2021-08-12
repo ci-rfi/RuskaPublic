@@ -1,2 +1,2 @@
 # Ruska Public
-Testing [wiki page](wiki)
+Testing [wiki page](../../../wiki)
